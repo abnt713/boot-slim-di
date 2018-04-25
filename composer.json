@@ -1,0 +1,16 @@
+{
+  "name": "d0nni3/boot-slim-di",
+  "description": "Application skeleton for dependency injection with slim",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alison Bento",
+      "email": "alisonbnt@gmail.com"
+    }
+  ],
+  "require": {
+    "php-di/php-di": "^6.0",
+    "php-di/slim-bridge": "^2.0"
+  }
+}
