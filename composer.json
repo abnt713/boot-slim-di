@@ -1,5 +1,5 @@
 {
-  "name": "d0nni3/boot-slim-di",
+  "name": "donni3/boot-slim-di",
   "description": "Application skeleton for dependency injection with slim",
   "type": "project",
   "license": "MIT",
